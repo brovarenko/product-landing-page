@@ -19,7 +19,7 @@ header{
     position: fixed;
     background-color: rgb(206, 206, 206);
     z-index: 1;
-    
+    width: 100%;
 }
 main{
     margin-top: 58px;
